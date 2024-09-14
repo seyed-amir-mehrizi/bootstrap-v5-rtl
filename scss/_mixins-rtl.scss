@@ -14,7 +14,7 @@
 @import "mixins/image";
 @import "mixins/resize";
 @import "mixins/visually-hidden";
-@import "mixins/reset-text";
+@import "mixins/reset-text-rtl";
 @import "mixins/text-truncate";
 
 // Utilities
@@ -24,10 +24,10 @@
 @import "mixins/alert";
 @import "mixins/buttons";
 @import "mixins/caret-rtl";
-@import "mixins/pagination";
-@import "mixins/lists";
+@import "mixins/pagination-rtl";
+@import "mixins/lists-rtl";
 @import "mixins/list-group";
-@import "mixins/forms";
+@import "mixins/forms-rtl";
 @import "mixins/table-variants";
 
 // Skins
@@ -39,4 +39,4 @@
 // Layout
 @import "mixins/clearfix";
 @import "mixins/container";
-@import "mixins/grid";
+@import "mixins/grid-rtl";
