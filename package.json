@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-v5-rtl",
+  "version": "1.0.1",
+  "description": "A customized Bootstrap v5 for RTL languages like Farsi and Arabic.",
+  "main": "dist/style.css",
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build:css:min": "sass scss/bootstrap-rtl.scss dist/css/bootstrap.min.css --style compressed",
+    "build:css:exp": "sass scss/bootstrap-rtl.scss dist/css/bootstrap.css --style expanded",
+    "build": "npm run build:css:min && npm run build:css:exp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seyed-amir-mehrizi/bootstrap-v5-rtl"
+  },
+  "author": "Seyed Amir Mehrizi",
+  "license": "ISC"
+}
