@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/bootstrap-v5-rtl)](https://www.npmjs.com/package/bootstrap-v5-rtl)
 [![npm downloads](https://img.shields.io/npm/dm/bootstrap-v5-rtl)](https://www.npmjs.com/package/bootstrap-v5-rtl)
-[![MIT License](https://img.shields.io/github/license/seyed-amir-mehrizi/bootstrap-v5-rtl)](https://github.com/seyed-amir-mehrizi/bootstrap-rtl-wrapper/blob/main/LICENSE)
+
 
 ## Overview
 
