@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-v5-rtl",
-  "version": "1.0.1",
+  "version": "1.0.12",
   "description": "A customized Bootstrap v5 for RTL languages like Farsi and Arabic.",
   "main": "dist/style.css",
   "files": [
@@ -17,5 +17,8 @@
     "url": "https://github.com/seyed-amir-mehrizi/bootstrap-v5-rtl"
   },
   "author": "Seyed Amir Mehrizi",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "Bootstrap 5" , "RTL Support" , "Right-to-left" , "Persian Layout" , "Arabic Layout" , "Responsive Design"
+  ]
 }
